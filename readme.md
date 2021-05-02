@@ -13,9 +13,11 @@ This is my design project for undesrtanding JS,CSS and HTML both combined
 
 ## Technologies Used
 HTML,CSS and JavaScript
+## Difficulties and Bugs
+linking js to html for an actual calculation for output has been hard,Linking whole js to html was successesful but the calculate button did not work 
 ## Support and contact details
 nicholas.okoth@student.moringaschool.com
-##My gh-pages link []
+## My gh-pages link []
 ### License
 Licensed under the 
 Copyright (c) 2021 *Nicholas Owino

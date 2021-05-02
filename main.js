@@ -28,10 +28,10 @@ let incomeOverTime = function income(selling_price, time){
     yearTotal = year * selling_price * totalLitres;
     console.log("\n");
     console.log("Your week income will be Ksh " + weekTotal);
-    console.log("Your yearl income will be Ksh " + yearTotal);
+    console.log("Your year income will be Ksh " + yearTotal);
     
     for (const [key, value] of Object.entries(months)) {
-        console.log("Your income for " + key + " is " + value * totalLitres * selling_price);
+        console.log("Your income for " + key + " will be " + value * totalLitres * selling_price);
       }
 }
 incomeOverTime(selling_price, time);
