@@ -31,4 +31,13 @@
     font-size:20px;
   }
   
-  
+  #showcase .button{
+    font-size:18px;
+    text-decoration:none;
+    color:#3eac8b;
+    border:#6ce07f 1px solid;
+    padding:10px 20px;
+    border-radius:10px;
+    margin-top:20px;
+  }
+ 
