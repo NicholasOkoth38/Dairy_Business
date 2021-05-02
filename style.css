@@ -23,21 +23,21 @@
   }
   
   #showcase h1{
-    font-size:50px;
+    font-size:55px;
     line: height 1.2em;
   }
   
   #showcase p{
-    font-size:22px;
+    font-size:23px;
   }
   
   #showcase .button{
-    font-size:18px;
+    font-size:20px;
     text-decoration:none;
     color:#3eac8b;
     border:#6ce07f 1px solid;
     padding:10px 20px;
     border-radius:10px;
-    margin: top 20px;
+    margin: top 22px;
   }
  
