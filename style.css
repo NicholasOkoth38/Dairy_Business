@@ -6,7 +6,7 @@
     margin:0;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size:17px;
-    color:#398892;
+    color:#926239;
     line-height:1.6;
   }
   #showcase{
@@ -29,6 +29,7 @@
   
   #showcase p{
     font-size:23px;
+    color: aquamarine;
   }
   
   #showcase .button{
