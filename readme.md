@@ -17,7 +17,7 @@ HTML,CSS and JavaScript
 linking js to html for an actual calculation for output has been hard,Linking whole js to html was successesful but the calculate button did not work 
 ## Support and contact details
 nicholas.okoth@student.moringaschool.com
-## My gh-pages link []
+## My gh-pages link [https://nicholasokoth38.github.io/Dairy_Business/]
 ### License
 Licensed under the 
 Copyright (c) 2021 *Nicholas Owino
